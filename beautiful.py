@@ -1,5 +1,4 @@
 import requests              # библиотека для HTTP-запросов
-import json                  # работа с JSON (в этом коде не используется)
 from bs4 import BeautifulSoup # парсинг HTML
 import csv                   # работа с CSV-файлами
 
